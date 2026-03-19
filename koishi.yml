@@ -74,3 +74,15 @@ plugins:
     $if: env.NODE_ENV === 'development'
     hmr:nolv53:
       root: .
+  answer-me:3gh19j:
+    announcement:
+      enabled: true
+      command: answer-me/announcement
+      aliases:
+        - 公告
+        - 活动
+      url: http://t.imop.com/list/0-1.htm
+      baseUrl: http://t.imop.com/
+      limit: 10
+      encoding: gbk
+      moreLink: http://t.imop.com/list/0-1.htm
