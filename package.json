@@ -1,6 +1,6 @@
 {
   "name": "AnswerMe",
-  "version": "0.0.0",
+  "version": "0.0.4",
   "packageManager": "yarn@4.1.0",
   "private": true,
   "files": [
@@ -28,7 +28,9 @@
     "setup": "koishi-scripts setup",
     "clone": "koishi-scripts clone",
     "build": "yakumo build",
+    "build:answer-me": "yakumo build answer-me",
     "clean": "yakumo clean",
+    "clean:answer-me": "yakumo clean answer-me",
     "bump": "yakumo version",
     "dep": "yakumo upgrade",
     "pub": "yakumo publish",

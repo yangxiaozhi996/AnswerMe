@@ -2088,9 +2088,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@root/answer-me@workspace:external/answer-me":
+"@root/answerme@workspace:external/answer-me":
   version: 0.0.0-use.local
-  resolution: "@root/answer-me@workspace:external/answer-me"
+  resolution: "@root/answerme@workspace:external/answer-me"
   dependencies:
     "@koishijs/client": "npm:^5.30.4"
     "@koishijs/plugin-hmr": "npm:^1.2.9"

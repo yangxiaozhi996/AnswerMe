@@ -1,6 +1,9 @@
 - id: rcz1op
   name: yakumo
   config:
+    alias:
+      answer-me: /external/answer-me/packages/answer-me
+      koishi-plugin-answer-me: /external/answer-me/packages/answer-me
     pipeline:
       build:
         - tsc
@@ -18,3 +21,5 @@
   name: yakumo/run
 - id: vphm3v
   name: yakumo/publish
+- id: dz1kwe
+  name: yakumo/version
