@@ -1,0 +1,16 @@
+- id: 5kbu1n
+  name: yakumo
+- id: yp8bbl
+  name: yakumo/list
+- id: cnrfpj
+  name: yakumo/prepare
+- id: kjx57n
+  name: yakumo/publish
+- id: vmfc3n
+  name: yakumo/test
+- id: cpy9ms
+  name: yakumo/upgrade
+- id: s8cwbu
+  name: yakumo/version
+- id: 1vdz87
+  name: yakumo/run

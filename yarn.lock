@@ -2088,9 +2088,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@root/answerme@workspace:external/answer-me":
+"@root/answer-me@workspace:external/answer-me":
   version: 0.0.0-use.local
-  resolution: "@root/answerme@workspace:external/answer-me"
+  resolution: "@root/answer-me@workspace:external/answer-me"
   dependencies:
     "@koishijs/client": "npm:^5.30.4"
     "@koishijs/plugin-hmr": "npm:^1.2.9"
@@ -2973,6 +2973,7 @@ __metadata:
     esbuild: "npm:^0.23.1"
     esbuild-register: "npm:@shigma/esbuild-register@^1.1.1"
     koishi: "npm:^4.18.7"
+    koishi-plugin-adapter-onebot: "npm:6.9.0"
     koishi-plugin-android: "npm:^0.0.1"
     koishi-plugin-assets-local: "npm:^3.3.2"
     koishi-plugin-dataview: "npm:^2.6.1"
@@ -5217,6 +5218,17 @@ __metadata:
   languageName: node
   linkType: hard
 
+"koishi-plugin-adapter-onebot@npm:6.9.0":
+  version: 6.9.0
+  resolution: "koishi-plugin-adapter-onebot@npm:6.9.0"
+  dependencies:
+    qface: "npm:^1.4.1"
+  peerDependencies:
+    koishi: ^4.18.6
+  checksum: 10c0/b8909348ab0f25ad17012155fdb4370a89beee44c9c175b9d46e3b19731900edd7df79fe6a179ff0fc7f7ff75b88a2a77b72ba225d877c1f0fde92dbb42542bf
+  languageName: node
+  linkType: hard
+
 "koishi-plugin-android@npm:^0.0.1":
   version: 0.0.1
   resolution: "koishi-plugin-android@npm:0.0.1"
@@ -6124,6 +6136,13 @@ __metadata:
   version: 1.1.1
   resolution: "puppeteer-finder@npm:1.1.1"
   checksum: 10c0/2df149ad2635888a609bd750a8297a49b26965be0e7ad0351a8d18b92b87ac8dfb36cedcb67c06fbf61c06f060f10b6683227ad851bf6a8589ad967801305b35
+  languageName: node
+  linkType: hard
+
+"qface@npm:^1.4.1":
+  version: 1.4.1
+  resolution: "qface@npm:1.4.1"
+  checksum: 10c0/64f84389b120c3a9b3408eacbedf1eac895ab19abdf4341a8610cdc6eff1b1c92024083b342ea091f2fe897544aefb57bd5a509f4483daeee41403065d7a389c
   languageName: node
   linkType: hard
 

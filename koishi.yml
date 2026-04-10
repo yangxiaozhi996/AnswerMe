@@ -86,3 +86,6 @@ plugins:
       limit: 10
       encoding: gbk
       moreLink: http://t.imop.com/list/0-1.htm
+  adapter-onebot:52pfxb:
+    selfId: '841812492'
+    token: K6pZ9m2N4vL8xQ5rT7bW3uY1

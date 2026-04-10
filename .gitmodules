@@ -1,0 +1,3 @@
+[submodule "external/answer-me/packages/answer-me"]
+	path = external/answer-me/packages/answer-me
+	url = https://github.com/yangxiaozhi996/AnswerMe.git
